@@ -16,12 +16,16 @@
     "pt-BR": [
       "Pegue isto! É o Anel da Harmonia!\nVocês irão precisar trabalhar como um se querem derrotar esse camarada!"
     ]
+    "fr": [
+      "Prenez ceci! Il s'agit de l'Unisceau!\nVous devrez travailler main dans la main si vous prévoyez de vaincre ce type!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

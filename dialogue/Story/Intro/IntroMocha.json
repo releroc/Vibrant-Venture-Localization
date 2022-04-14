@@ -16,12 +16,16 @@
     "pt-BR": [
       "O TEMPLO ESTÁ SOB ATAQUE!"
     ]
+    "fr": [
+    "LE TEMPLE SE FAIT ATTAQUER!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

@@ -17,11 +17,16 @@
       "Espetacular!\nVocês chegaram bem a tempo para o show...",
       "Aqui está um gostinho do poder dos cristais!"
     ]
+    "fr" [
+    "Impressionnant!\nVous arrivez pile à temps pour assister au spectacle...",
+    "Et voici,sous vos yeux ébahis,un avant-goût du pouvoir de ces cristaux!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

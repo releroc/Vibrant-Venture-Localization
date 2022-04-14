@@ -16,12 +16,16 @@
     "pt-BR": [
       "Só tente me parar!"
     ]
+    "fr": [
+    "Allez-y,essayez donc de m'arrêter!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

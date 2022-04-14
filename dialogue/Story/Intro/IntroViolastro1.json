@@ -22,12 +22,17 @@
       "Ora! Vejamos o que temos aqui, Aventureiros!",
       "Estou planejando tornar tudo muito mais divertido para todos nós!\nSua realidade precisa de um pouco mais de bagunça!"
     ]
+    "fr": [
+    "Appréciez donc le spectacle, preux Aventuriers!"
+    "Je fais en sorte de rendre les choses bien plus amusantes pour chacun d'entre nous!\nCet univers qui est le vôtre a grand besoin d'être remodelé!"
+    ],
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

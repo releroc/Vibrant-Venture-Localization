@@ -16,12 +16,16 @@
     "pt-BR": [
       "O que você está fazendo parado aí falando comigo?\nEntre lá e ajude os outros!"
     ]
+    "fr": [
+      "Qu'est-ce que tu fabriques à rester planté là en me causant?/nVa plutôt aider les autres à l'intérieur!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

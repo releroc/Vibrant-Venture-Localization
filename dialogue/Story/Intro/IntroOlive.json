@@ -26,12 +26,18 @@
       "<c=pistachio>Minha irmã</c> está por lá!\nEm que ela se meteu dessa vez?!",
       "Sempre dissemos que se aventurar era uma má ideia..."
     ]
+    "fr": [
+    "Tu as entendu cette giga explosion?\nElle provenait du temple!",
+    "<c=pistachio>Ma soeur</c> est à l'intérieur!\nDans quel pétrin s'est-elle encore fourrée?",
+    "On n'a jamais cessé de lui répéter que son goût pour l'aventure ne lui amènerait rien de bon..."
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr":[]
   }
 }

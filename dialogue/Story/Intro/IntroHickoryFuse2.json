@@ -16,12 +16,16 @@
     "pt-BR": [
       "Mas toma cuidado com isso!\n Essa tralha é um fóssil!\nAgora cai fora!"
     ]
+    "fr": [
+    "Utilisez le avec prudence!\nC'est un objet très ancien!\nA présent,allez-y!"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
     "pl": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

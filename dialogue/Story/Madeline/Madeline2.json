@@ -12,12 +12,17 @@
     ],
     "pt-BR": [
       "<w>Bwahaha!</w>\nAcho que este será seu ato final!"
+      ],
+     "fr": [
+      "<w>Bwahaha!</w>\nJe crois bien que c'est votre dernier numéro!"
     ]
+    
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

@@ -44,12 +44,24 @@
       "EU NÃO DEVERIA TE DIZER ISSO!",
       "NÃO IMPORTA!\nO TEMPO DE VOCÊS ACABOU!",
       "AGORA, VAMOS DANÇAR!"
-    ]
+    ],
+    "fr": [
+      "IL AURAIT MIEUX VALU POUR VOUS DE NE PAS FAIRE DE <w><c=banana>CHARGE</c></w> AU SOL!",
+      "CROIS-MOI, LE SOL N'EST PAS TRÈS SOLIDE DANS LE COIN!",
+      "QUOI QU'IL EN SOIT, MERCI POUR CE RÉVEIL!"
+      "CONTRE TOUTE ATTENTE, <c=violastro>VIOLASTRO</c> A PLUS IMPORTANT À FAIRE QUE DE S'OCCUPER D'UNE BANDE D'AVENTURIERS DE PACOTILLE!",
+      "EN FAIT, IL N'EST MÊME PLUS SUR CETTE PLANÈTE À L'HEURE QU'IL EST, GNÉHÉHÉ!",
+      "OUPS!",
+      "JE N'ÉTAIS PAS CENSÉ VOUS RÉVÉLER CELA"
+      "PEU IMPORTE!\nVOTRE HEURE A SONNÉ!",
+      "ALLEZ, QUE TOUT LE MONDE DANSE!",
+      
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

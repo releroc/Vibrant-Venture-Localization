@@ -16,18 +16,26 @@
       "I'm going to keep losing to her, aren't I?"
     ],
     "es": [
-      "�Estoy <w>MUUUUY</w> ocupada ahora mismo!",
+      "¡Estoy <w>MUUUUY</w> ocupada ahora mismo!",
       "...",
       "Venga...",
-      "<s>��UN SEIS?!</s>\nHa lanzado el dado y ha obtenido un <s>�SEIS?</s>\n<s>��OTRA VEZ?!</s>",
-      "No le voy a ganar nunca, �verdad?"
+      "<s>¡¿UN SEIS?!</s>\nHa lanzado el dado y ha obtenido un <s>¿SEIS?</s>\n<s>¡¿OTRA VEZ?!</s>",
+      "No le voy a ganar nunca, ¿verdad?"
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+    "Je suis <w>TRÈÈÈS</w> occupée,là",
+    "...",
+    "Allez...",
+    "<s>UN SIX?!</s>\nElle a lancé le dé et elle est tombée sur un <s>SIX?</s>\n<s>ENCORE?!</s>",
+    "Je n'arriverai jamais à gagner contre elle, c'est ça?"
+    ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

@@ -25,12 +25,21 @@
       "...",
       "De todas maneras, no puedes..."
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "Tu-Tu as entendu la rumeur?\nIls disent que la vieille tour de l'horloge est...",
+      "<s>HANTÉE!</s>",
+      "<w>Brrrr!</w>\nJe n'irai jamais là-dedans, oh que non!",
+      "Et toi non plus d'ailleurs!",
+      "...",
+      "Enfin bon, c'est pas comme si tu pouvais y aller..."
+      ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

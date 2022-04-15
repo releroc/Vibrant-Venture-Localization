@@ -17,12 +17,18 @@
       "Pero hablar con el es agotador... Aunque después de hablar con él un buen rato, ¡al parecer también vende juegos!",
       "Me pregunto que otras cosas venderá..."
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "J'adore visiter la boutique d'Hickory.",
+      "Parler avec lui n'est pas de tout repos... Mais cela m'a permis d'apprendre qu'il vend aussi des jeux!",
+      "Je me demande bien ce qu'il pourrait vendre encore..."
+      ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

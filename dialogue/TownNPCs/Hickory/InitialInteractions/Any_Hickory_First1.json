@@ -34,12 +34,26 @@
       "Aseguraos de darle una buena lección a <c=violastro>ese ladrón</c>.",
       "Estaré aqui para proveeros todo tipo de bienes, ¡así que visitadme de vez en cuando en el Mapa del Mundo!"
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "Ah, c'est un plaisir de te voir en pleine forme, @CharacterName!",
+      "Dieu merci, <c=violastro>ce voyou</c> s'en est seulement pris aux cristaux et pas à nous.",
+      "Je ne peux rien faire pour vous aider à retrouver ce <c=violastro>tocard violet</c>.",
+      "J'ai mon rôle à tenir, tout comme la plupart des personnes vivant ici.",
+      "Je dois m'occuper de cette admirable boutique ainsi que de réapprovisionner le coin..."
+      "tandis que d'autres sont prêts à s'aventurer dans la forêt, voire encore plus loin.",
+      "Pas mal comme poème, non?! <w>HÉHÉHÉ!</w>",
+      "Tu as juste à faire en sorte de lui rendre la monnaie de sa pièce à <c=violastro>ce voyou</c>.",
+      "Je serai là pour te fournir tout ce dont tu as besoin, alors viens me voir dans la Carte du Monde pour en savoir plus!"
+      ]
+      
+      
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

@@ -19,12 +19,19 @@
       "Creo que no hay nada mejor que relajarse mientras hablo y juego con mi amiga.",
       "¡Además, podemos quedarnos hasta tarde jugando a juegos puesto que estamos al lado de casa!"
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "Ça doit être quelque chose de sortir de la ville et d'explorer la forêt, voire encore plus loin."
+      "Mais je pense qu'il y'a aussi pas mal de choses amusantes à faire ici!",
+      "Je pense qu'il n'y a rien de tel que de pouvoir profiter de papoter et jouer avec mon amie, tout en restant près de chez moi.",
+      "Ça veut dire qu'on peut jouer à des jeux toute la soirée, vu qu'on a pas à marcher très loin pour rentrer!"
+      ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

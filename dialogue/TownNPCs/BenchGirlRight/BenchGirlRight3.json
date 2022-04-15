@@ -16,12 +16,18 @@
       "Los cristales son el símbolo de la ciudad, ¡y adoro ver sus bonitas luces!",
       "¿Como se atreve <c=violastro>ese villano</c> a llevarse todos los cristales?"
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "Cornucopia existe depuis très longtemps déjà.",
+      "Les cristaux sont une sorte de symbole phare pour la ville, et j'adore contempler leurs splendides reflets!",
+      "Comment cet espèce de <c=violastro>crapule</c> ose-t-il avoir le culot de les voler?"
+      ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

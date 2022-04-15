@@ -10,15 +10,20 @@
       "Get off me counter this instant!\n<w>I just had it cleaned...</w>"
     ],
     "es": [
-      "<s>°øQU… TE CREES QUE EST¡S HACIENDO?!</s>",
-      "°Bajad de la mesa!\n<w>La acabo de limpiar...</w>"
+      "<s>¬°¬øQU√â TE CREES QUE EST√ÅS HACIENDO?!</s>",
+      "¬°Bajad de la mesa!\n<w>La acabo de limpiar...</w>"
     ],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": [
+      "<s>QU'EST-CE-QUE TU FABRIQUES?!</s>",
+      "Descends de l√† tout de suite!\n<w>Je viens tout juste de le nettoyer...</w>"
+      ]
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
-    "pt-BR": []
+    "pt-BR": [],
+    "fr": []
   }
 }

@@ -10,6 +10,9 @@
     "es": [
       "¡¡ESTÁN ATACANDO EL TEMPLO!!"
     ],
+    "fr": [
+      "LE TEMPLE SE FAIT ATTAQUER!"
+      ],
     "pl": [
       "ŚWIĄTYNIA JEST ATAKOWANA!"
     ],
@@ -21,6 +24,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "fr": [],
     "pl": [],
     "pt-BR": []
   }

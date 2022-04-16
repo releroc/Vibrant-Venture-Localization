@@ -16,6 +16,11 @@
       "¡<c=pistachio>Mi hermana</c> está allí!\n¡¿En qué se ha metido esta vez?!",
       "Le decimos constantemente que aventurarse allí fuera es peligroso..."
     ],
+    "fr": [
+      "T'as entendu cette giga explosion?\nElle provenait du temple!",
+      "<c=pistachio>Ma soeur</c> est à l'intérieur!\nDans quel pétrin s'est-elle fourrée?!",
+      "On lui a toujours dit que son goût pour l'aventure était une mauvaise idée..."
+      ]
     "pl": [
       "Słyszałeś ten wielki wybuch?\nDochodził ze świątyni!",
       "<c=pistachio>Moja siostra</c> tam jest!\nW co ona się znowu wpakowała?!",
@@ -31,6 +36,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "fr": [],
     "pl": [],
     "pt-BR": []
   }

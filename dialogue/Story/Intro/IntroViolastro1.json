@@ -14,6 +14,10 @@
       "¿Pero que tenemos aquí? ¡Un grupito de aventureros!",
       "¡Estoy currandome las cosas para que esto sea más divertido para todos nosotros!\n¡Vuestro día a día necesita un poco más de chispa!"
     ],
+    "fr": [
+      "Eh bien, voyez-vous ça, une bande d'Aventuriers!",
+      "Je fais en sorte de rendre les choses plus amusantes pour chacun d'entre nous!\nVotre univers a grand besoin d'être remodelé!"
+      ],
     "pl": [
       "Patrzcie, oto nasi bohaterowie!",
       "Postaram się, abyśmy wszyscy mieli niezły ubaw!\nTrzeba trochę podrasować tą waszą rzeczywistość!"
@@ -27,6 +31,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "fr": [],
     "pl": [],
     "pt-BR": []
   }
